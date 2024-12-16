@@ -4,4 +4,4 @@ height = 5
 
 area = (top_side + bottom_side)*height/2
 
-print(f"{area}cm²")
+print(f"{area}cm²!")
